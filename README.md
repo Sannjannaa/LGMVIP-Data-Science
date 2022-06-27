@@ -10,9 +10,11 @@ Reference: Watch Tutorial from here https://youtu.be/CBCfOTePVPo
 # **Task 2: Stock Market Prediction And Forecasting Using Stacked LSTM:**
 This a Beginner Level Task which deals with the Stock Market Dataset.
 In this task we need to predict stock price and forecasting it using stacked LSTM.
+
 Dataset Used : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
 
 # **Task 3:Develop A Neural Network That Can Read Handwriting**
 This a Advance Level Task which deals with the neural network machine learning project with the MNIST Handwritten Digit Classification Challenge and using Tensorflow and CNN.
 It has a very user-friendly interface that’s ideal for beginners.
+
 Dataset Link : https://en.wikipedia.org/wiki/MNIST_database
