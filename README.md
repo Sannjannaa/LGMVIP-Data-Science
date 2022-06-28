@@ -20,4 +20,4 @@ It has a very user-friendly interface that’s ideal for beginners.
 Dataset Link : https://en.wikipedia.org/wiki/MNIST_database
 
 
-#**Task 4: iris decision tree**
+# **Task 4: iris decision tree**
